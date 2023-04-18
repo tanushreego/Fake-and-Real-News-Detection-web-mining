@@ -1,1 +1,10 @@
 # Fake-and-Real-News-Detection-In-Social-Information-Network
+
+ Abstract
+
+Before the Internet was even a thing, there were hoaxes and fake news. Fake news on the Internet is generally defined as "fictitious articles that have been purposefully created to deceive readers." Fake news is published on social media and by news organizations to attract more readers or as a kind of psychological warfare. The goal of the work is to develop a method through which users may identify and eliminate websites that provide inaccurate or misleading information. Utilizing the characteristics of the title and post, we employ simple and carefully chosen methods to accurately identify phony posts. Our research focuses on the patterns of fake news in social networks as it pertains to the news being propagated, the news spreaders, and the interactions among the news spreaders. Empirical evidence and explanations of the occurrence of these patterns are provided based on social psychology theories. These patterns are then represented at various network levels, including node level, ego level, triad level, community level, and the overall network, to be used to further identify fake news.
+ 
+  Introduction
+
+Social media and mobile technology make information accessible. Mobile apps and social media now spread news and information. Given its simplicity and quickness, people prefer digital media for their everyday information demands. This has given profit-seeking corporations a solid platform to reach a broader audience and offered people faster access to various data. Fake news is often used to deceive or incite bias for political or financial gain. To attract visitors, it may include exciting headlines or compelling content. During the recent US elections, many press reports endorsing candidates and their political reasons were disputed. Fake news must be identified to stop its harm to society and individuals. Fake news detection techniques use Support Vector Machines, Random Forests, Decision Trees, Stochastic Gradient Descent, Logistic Regression, and others.
+ 
